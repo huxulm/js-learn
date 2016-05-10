@@ -1,0 +1,23 @@
+{
+  "name": "js-learn",
+  "version": "1.0.0",
+  "description": "A project used to excise JavaScript",
+  "main": "learn",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node learn.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackdon/js-learn.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Jackdon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackdon/js-learn/issues"
+  },
+  "homepage": "https://github.com/jackdon/js-learn#readme"
+}
